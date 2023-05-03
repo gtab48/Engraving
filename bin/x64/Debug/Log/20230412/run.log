@@ -1,0 +1,172 @@
+[2023-04-12 19:04:35.647]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\BslCAD.cfg
+[2023-04-12 19:04:35.649]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\LmcPar.cfg
+[2023-04-12 19:04:35.652]corfile=E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\sea.cor
+[2023-04-12 19:04:35.671]CExecutor::GetDevPathMap size=0
+[2023-04-12 19:11:30.920]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\BslCAD.cfg
+[2023-04-12 19:11:30.921]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\LmcPar.cfg
+[2023-04-12 19:11:30.924]corfile=E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\sea.cor
+[2023-04-12 19:11:30.937]CExecutor::GetDevPathMap size=0
+[2023-04-12 19:13:14.708]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\BslCAD.cfg
+[2023-04-12 19:13:14.710]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\LmcPar.cfg
+[2023-04-12 19:13:14.713]corfile=E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\sea.cor
+[2023-04-12 19:13:14.724]CExecutor::GetDevPathMap size=0
+[2023-04-12 19:13:25.890]软件启动
+[2023-04-12 19:13:25.969]软件退出
+[2023-04-12 19:13:34.971]软件启动
+[2023-04-12 19:13:36.009]没有检测到板卡驱动程序,请重新安装板卡驱动 代码:-3
+[2023-04-12 19:13:36.711]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\BslCAD.cfg
+[2023-04-12 19:13:36.713]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\LmcPar.cfg
+[2023-04-12 19:13:36.715]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\BslCustom.cfg
+[2023-04-12 19:13:36.720]corfile=E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\sea.cor
+[2023-04-12 19:13:36.788]CExecutor::GetDevPathMap size=0
+[2023-04-12 19:13:36.790]registe orz file format succeed...
+[2023-04-12 19:13:36.793]registe orzx file format succeed...
+[2023-04-12 19:13:38.272]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\DlgPar.cfg
+[2023-04-12 19:13:46.788]CExecutor::GetDevPathMap size=0
+[2023-04-12 19:13:46.790]开始枚举网口列表...
+[2023-04-12 19:13:46.879]网口:169.254.25.96
+[2023-04-12 19:13:46.881]网口:192.168.31.103
+[2023-04-12 19:13:46.917]网络打标卡准备上线:169.254.25.2
+[2023-04-12 19:13:46.917]网络打标卡上线:169.254.25.2
+[2023-04-12 19:13:46.921]正在初始化新增的设备，请稍候...
+[2023-04-12 19:13:46.951]CUDPTransmit::OpenDev, 0
+[2023-04-12 19:13:46.954]GetSSVersion FPGA:5.8.19.17
+[2023-04-12 19:13:47.649]GetDevID 加密卡:9250179997539
+[2023-04-12 19:13:50.609]CheckCardRegisteStatus IsLegalVersion
+[2023-04-12 19:13:50.722]CheckCardRegisteStatus IsLegalVersion
+[2023-04-12 19:13:50.758]CheckCardRegisteStatus IsLegalVersion
+[2023-04-12 19:13:52.815]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\devdocs.ini
+[2023-04-12 19:13:52.816]CheckCardRegisteStatus IsLegalVersion
+[2023-04-12 19:13:54.551]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=13 ip=169.254.25.2 left=3
+[2023-04-12 19:13:54.551]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:13:54.639]error CCmdExecutor ReadAndWriteCmd seq check fail 13<=>14
+[2023-04-12 19:13:56.380]CheckCardRegisteStatus IsLegalVersion
+[2023-04-12 19:13:58.586]main frame io test thread exit
+[2023-04-12 19:13:58.816]CMarkAdaptor::CloseExecutor:: 0
+[2023-04-12 19:13:58.822]CUDPTransmit::CloseDev, 0
+[2023-04-12 19:13:59.120]广播线程退出!
+[2023-04-12 19:13:59.121]软件退出
+[2023-04-12 19:43:05.340]软件启动
+[2023-04-12 19:43:05.419]未启用USB驱动检测...
+[2023-04-12 19:43:05.434]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\BslCAD.cfg
+[2023-04-12 19:43:05.435]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\LmcPar.cfg
+[2023-04-12 19:43:05.438]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\BslCustom.cfg
+[2023-04-12 19:43:05.441]corfile=E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\sea.cor
+[2023-04-12 19:43:05.465]CExecutor::GetDevPathMap size=0
+[2023-04-12 19:43:05.466]registe orz file format succeed...
+[2023-04-12 19:43:05.469]registe orzx file format succeed...
+[2023-04-12 19:43:06.820]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\DlgPar.cfg
+[2023-04-12 19:43:06.898]开始枚举网口列表...
+[2023-04-12 19:43:06.900]网口:169.254.25.96
+[2023-04-12 19:43:06.902]网口:192.168.31.103
+[2023-04-12 19:43:06.938]网络打标卡准备上线:169.254.25.2
+[2023-04-12 19:43:07.499]网络打标卡上线:169.254.25.2
+[2023-04-12 19:43:07.500]正在初始化新增的设备，请稍候...
+[2023-04-12 19:43:07.536]CUDPTransmit::OpenDev, 0
+[2023-04-12 19:43:07.539]GetSSVersion FPGA:5.8.19.17
+[2023-04-12 19:43:08.231]GetDevID 加密卡:9250179997539
+[2023-04-12 19:43:09.897]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=11 ip=169.254.25.2 left=3
+[2023-04-12 19:43:11.581]CheckCardRegisteStatus IsLegalVersion
+[2023-04-12 19:43:11.581]error CCmdExecutor ReadAndWriteCmd cmd check fail 0101<=>5C0C
+[2023-04-12 19:43:11.715]CheckCardRegisteStatus IsLegalVersion
+[2023-04-12 19:43:11.815]CheckCardRegisteStatus IsLegalVersion
+[2023-04-12 19:43:15.083]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\devdocs.ini
+[2023-04-12 19:43:15.083]CheckCardRegisteStatus IsLegalVersion
+[2023-04-12 19:43:16.668]CheckCardRegisteStatus IsLegalVersion
+[2023-04-12 19:43:18.050]main frame io test thread exit
+[2023-04-12 19:43:18.071]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=7 ip=169.254.25.2 left=3
+[2023-04-12 19:43:18.071]error 1101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:43:18.075]error CCmdExecutor ReadAndWriteCmd cmd check fail 0101<=>1101
+[2023-04-12 19:43:18.273]CMarkAdaptor::CloseExecutor:: 0
+[2023-04-12 19:43:18.280]CUDPTransmit::CloseDev, 0
+[2023-04-12 19:43:18.421]广播线程退出!
+[2023-04-12 19:43:18.422]软件退出
+[2023-04-12 19:50:55.714]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\BslCAD.cfg
+[2023-04-12 19:50:55.715]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\LmcPar.cfg
+[2023-04-12 19:50:55.718]corfile=E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\sea.cor
+[2023-04-12 19:50:55.730]CExecutor::GetDevPathMap size=0
+[2023-04-12 19:50:55.736]开始枚举网口列表...
+[2023-04-12 19:50:55.738]网口:169.254.25.96
+[2023-04-12 19:50:55.740]网口:192.168.31.103
+[2023-04-12 19:50:55.776]网络打标卡准备上线:169.254.25.2
+[2023-04-12 19:50:55.845]网络打标卡上线:169.254.25.2
+[2023-04-12 19:50:55.846]CExecutor::GetDevPathMap size=0
+[2023-04-12 19:50:55.850]CUDPTransmit::OpenDev, 0
+[2023-04-12 19:50:55.859]GetSSVersion FPGA:5.8.19.17
+[2023-04-12 19:50:56.553]GetDevID 加密卡:9250179997539
+[2023-04-12 19:50:59.505]CheckCardRegisteStatus IsLegalVersion
+[2023-04-12 19:50:59.856]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=7 ip=169.254.25.2 left=3
+[2023-04-12 19:50:59.856]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:50:59.911]error CCmdExecutor ReadAndWriteCmd seq check fail 7<=>8
+[2023-04-12 19:51:06.161]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=5 ip=169.254.25.2 left=3
+[2023-04-12 19:51:06.161]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:51:06.216]error CCmdExecutor ReadAndWriteCmd seq check fail 5<=>6
+[2023-04-12 19:51:17.756]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=14 ip=169.254.25.2 left=3
+[2023-04-12 19:51:17.756]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:51:17.811]error CCmdExecutor ReadAndWriteCmd seq check fail 14<=>15
+[2023-04-12 19:51:18.371]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=10 ip=169.254.25.2 left=3
+[2023-04-12 19:51:18.371]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:51:18.426]error CCmdExecutor ReadAndWriteCmd seq check fail 10<=>11
+[2023-04-12 19:51:21.725]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=13 ip=169.254.25.2 left=3
+[2023-04-12 19:51:21.725]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:51:21.780]error CCmdExecutor ReadAndWriteCmd seq check fail 13<=>14
+[2023-04-12 19:51:22.220]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=7 ip=169.254.25.2 left=3
+[2023-04-12 19:51:22.220]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:51:22.275]error CCmdExecutor ReadAndWriteCmd seq check fail 7<=>8
+[2023-04-12 19:51:38.954]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=10 ip=169.254.25.2 left=3
+[2023-04-12 19:51:38.954]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:51:39.009]error CCmdExecutor ReadAndWriteCmd seq check fail 10<=>11
+[2023-04-12 19:51:39.549]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=6 ip=169.254.25.2 left=3
+[2023-04-12 19:51:39.549]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:51:39.638]error CCmdExecutor ReadAndWriteCmd seq check fail 6<=>7
+[2023-04-12 19:52:16.738]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=5 ip=169.254.25.2 left=3
+[2023-04-12 19:52:16.738]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:52:16.794]error CCmdExecutor ReadAndWriteCmd seq check fail 5<=>6
+[2023-04-12 19:52:26.762]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=15 ip=169.254.25.2 left=3
+[2023-04-12 19:52:26.762]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:52:26.820]error CCmdExecutor ReadAndWriteCmd seq check fail 15<=>1
+[2023-04-12 19:52:39.592]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=4 ip=169.254.25.2 left=3
+[2023-04-12 19:52:39.592]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:52:39.647]error CCmdExecutor ReadAndWriteCmd seq check fail 4<=>5
+[2023-04-12 19:52:42.566]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=15 ip=169.254.25.2 left=3
+[2023-04-12 19:52:42.566]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:52:42.621]error CCmdExecutor ReadAndWriteCmd seq check fail 15<=>1
+[2023-04-12 19:53:01.480]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=12 ip=169.254.25.2 left=3
+[2023-04-12 19:53:01.480]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:53:01.535]error CCmdExecutor ReadAndWriteCmd seq check fail 12<=>13
+[2023-04-12 19:53:03.858]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=12 ip=169.254.25.2 left=3
+[2023-04-12 19:53:03.858]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:53:03.912]error CCmdExecutor ReadAndWriteCmd seq check fail 12<=>13
+[2023-04-12 19:53:11.328]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=5 ip=169.254.25.2 left=3
+[2023-04-12 19:53:11.328]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:53:11.383]error CCmdExecutor ReadAndWriteCmd seq check fail 5<=>6
+[2023-04-12 19:53:16.719]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=4 ip=169.254.25.2 left=3
+[2023-04-12 19:53:16.719]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:53:16.774]error CCmdExecutor ReadAndWriteCmd seq check fail 4<=>5
+[2023-04-12 19:53:20.015]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=7 ip=169.254.25.2 left=3
+[2023-04-12 19:53:20.015]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:53:20.085]error CCmdExecutor ReadAndWriteCmd seq check fail 7<=>8
+[2023-04-12 19:53:20.207]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=10 ip=169.254.25.2 left=3
+[2023-04-12 19:53:20.207]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:53:20.262]error CCmdExecutor ReadAndWriteCmd seq check fail 10<=>11
+[2023-04-12 19:53:22.103]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=14 ip=169.254.25.2 left=3
+[2023-04-12 19:53:22.103]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:53:22.158]error CCmdExecutor ReadAndWriteCmd seq check fail 14<=>15
+[2023-04-12 19:53:40.009]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=8 ip=169.254.25.2 left=3
+[2023-04-12 19:53:40.009]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:53:40.065]error CCmdExecutor ReadAndWriteCmd seq check fail 8<=>9
+[2023-04-12 19:53:58.389]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=9 ip=169.254.25.2 left=3
+[2023-04-12 19:53:58.389]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:53:58.458]error CCmdExecutor ReadAndWriteCmd seq check fail 9<=>10
+[2023-04-12 19:54:55.411]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=11 ip=169.254.25.2 left=3
+[2023-04-12 19:54:55.411]error 0101: ReadAndWriteCmd time out, retry 1
+[2023-04-12 19:54:55.437]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=11 ip=169.254.25.2 left=2
+[2023-04-12 19:54:55.437]error 0101: ReadAndWriteCmd time out, retry 2
+[2023-04-12 19:54:55.462]CUDPTransmit::ReadCmd fail 20, m_dwSeqCmd=11 ip=169.254.25.2 left=1
+[2023-04-12 19:54:55.462]网络打标卡准备下线:169.254.25.2
+[2023-04-12 19:54:55.467]error 0101: ReadAndWriteCmd time out, retry 3
+[2023-04-12 19:54:55.471]网络打标卡下线:169.254.25.2
+[2023-04-12 19:54:55.475]CUDPTransmit::WriteCMD not alive
+[2023-04-12 19:54:55.479]CExecutor::GetDevPathMap size=0
+[2023-04-12 19:54:55.483]0101: IDS_COMMAND_FAILURE devCount=0 errCount=0
+[2023-04-12 20:03:31.075]CMarkAdaptor::CloseExecutor:: -1

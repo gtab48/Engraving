@@ -1,0 +1,13 @@
+E:\雕刻机\Engraving\bin\x64\Debug\Engraving.exe.config
+E:\雕刻机\Engraving\bin\x64\Debug\Engraving.exe
+E:\雕刻机\Engraving\bin\x64\Debug\Engraving.pdb
+E:\雕刻机\Engraving\obj\x64\Debug\Engraving.csproj.AssemblyReference.cache
+E:\雕刻机\Engraving\obj\x64\Debug\Engraving.csproj.SuggestedBindingRedirects.cache
+E:\雕刻机\Engraving\obj\x64\Debug\Engraving.HandleMsg.resources
+E:\雕刻机\Engraving\obj\x64\Debug\Engraving.csproj.GenerateResource.cache
+E:\雕刻机\Engraving\obj\x64\Debug\Engraving.csproj.CoreCompileInputs.cache
+E:\雕刻机\Engraving\obj\x64\Debug\Engraving.exe
+E:\雕刻机\Engraving\obj\x64\Debug\Engraving.pdb
+E:\雕刻机\Engraving\bin\x64\Debug\Newtonsoft.Json.dll
+E:\雕刻机\Engraving\bin\x64\Debug\Newtonsoft.Json.xml
+E:\雕刻机\Engraving\obj\x64\Debug\Engraving.csproj.CopyComplete

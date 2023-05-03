@@ -1,0 +1,10 @@
+E:\雕刻机\Engraving\bin\Debug\Engraving.exe.config
+E:\雕刻机\Engraving\bin\Debug\Engraving.exe
+E:\雕刻机\Engraving\bin\Debug\Engraving.pdb
+E:\雕刻机\Engraving\obj\Debug\Engraving.csproj.AssemblyReference.cache
+E:\雕刻机\Engraving\obj\Debug\Engraving.csproj.SuggestedBindingRedirects.cache
+E:\雕刻机\Engraving\obj\Debug\Engraving.csproj.CoreCompileInputs.cache
+E:\雕刻机\Engraving\obj\Debug\Engraving.exe
+E:\雕刻机\Engraving\obj\Debug\Engraving.pdb
+E:\雕刻机\Engraving\obj\Debug\Engraving.HandleMsg.resources
+E:\雕刻机\Engraving\obj\Debug\Engraving.csproj.GenerateResource.cache

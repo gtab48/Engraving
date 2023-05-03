@@ -1,0 +1,19 @@
+[2023-04-25 22:49:53.371]软件启动
+[2023-04-25 22:49:53.472]未启用USB驱动检测...
+[2023-04-25 22:49:53.503]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\BslCAD.cfg
+[2023-04-25 22:49:53.504]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\LmcPar.cfg
+[2023-04-25 22:49:53.506]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\BslCustom.cfg
+[2023-04-25 22:49:53.511]corfile=E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\sea.cor
+[2023-04-25 22:49:53.549]CExecutor::GetDevPathMap size=0
+[2023-04-25 22:49:53.550]registe orz file format succeed...
+[2023-04-25 22:49:53.553]registe orzx file format succeed...
+[2023-04-25 22:49:55.404]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\DlgPar.cfg
+[2023-04-25 22:49:55.601]开始枚举网口列表...
+[2023-04-25 22:49:55.603]m_socketBroadCast error code=0!
+[2023-04-25 22:49:55.604]m_socketBroadCast error code=0!
+[2023-04-25 22:50:02.853]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\Fonts.cfg
+[2023-04-25 22:50:02.947]SetFontsTEXT
+[2023-04-25 22:50:27.147]filename = D:\BslApp1.orzx
+[2023-04-25 22:50:33.618]main frame io test thread exit
+[2023-04-25 22:50:34.151]广播线程退出!
+[2023-04-25 22:50:34.152]软件退出

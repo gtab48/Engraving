@@ -1,0 +1,28 @@
+[2023-04-11 19:53:53.742]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\BslCAD.cfg
+[2023-04-11 19:53:53.791]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\LmcPar.cfg
+[2023-04-11 19:53:53.794]corfile=E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\sea.cor
+[2023-04-11 19:53:53.832]CExecutor::GetDevPathMap size=0
+[2023-04-11 20:05:13.493]软件启动
+[2023-04-11 20:05:17.710]没有检测到板卡驱动程序,请重新安装板卡驱动 代码:-3
+[2023-04-11 20:05:17.785]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\BslCAD.cfg
+[2023-04-11 20:05:17.787]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\LmcPar.cfg
+[2023-04-11 20:05:17.790]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\BslCustom.cfg
+[2023-04-11 20:05:17.795]corfile=E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\sea.cor
+[2023-04-11 20:05:17.849]CExecutor::GetDevPathMap size=0
+[2023-04-11 20:05:17.851]registe orz file format succeed...
+[2023-04-11 20:05:17.854]registe orzx file format succeed...
+[2023-04-11 20:05:19.617]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\DlgPar.cfg
+[2023-04-11 20:05:22.809]main frame io test thread exit
+[2023-04-11 20:05:23.200]软件退出
+[2023-04-11 20:31:12.129]软件启动
+[2023-04-11 20:31:18.462]没有检测到板卡驱动程序,请重新安装板卡驱动 代码:-3
+[2023-04-11 20:31:18.690]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\BslCAD.cfg
+[2023-04-11 20:31:18.693]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\LmcPar.cfg
+[2023-04-11 20:31:18.695]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\BslCustom.cfg
+[2023-04-11 20:31:18.699]corfile=E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\sea.cor
+[2023-04-11 20:31:18.807]CExecutor::GetDevPathMap size=0
+[2023-04-11 20:31:18.813]registe orz file format succeed...
+[2023-04-11 20:31:18.815]registe orzx file format succeed...
+[2023-04-11 20:31:20.475]FilePath:E:\雕刻机\项目\SDK\X64_BslApp5.2.6(20220930)\config\DlgPar.cfg
+[2023-04-11 20:31:24.591]main frame io test thread exit
+[2023-04-11 20:31:24.859]软件退出
